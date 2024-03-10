@@ -1,0 +1,20 @@
+/* Basic styling for visual presentation */
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.upload-section {
+    margin-bottom: 20px;
+}
+
+.upload-status {
+    margin-top: 10px;
+    color: gray;
+}
+
+.transcription-section {
+    border: 1px solid #ccc;
+    padding: 20px;
+}
